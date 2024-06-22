@@ -1,0 +1,22 @@
+.bg-img {
+  background-image: url("images/bg\ img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative;
+  height: calc(100vh - 196px);
+}
+
+.nav-link,
+.navbar-text,
+.navbar-brand {
+  color: aliceblue;
+}
+
+.bi {
+  color: gray;
+}
+
+.heading,
+.motto {
+  color: aliceblue;
+}
