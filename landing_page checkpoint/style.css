@@ -1,0 +1,23 @@
+/* @media only screen and (max-width: 767px) {
+  .grid-container {
+    padding: 0 2rem;
+  }
+}
+
+.container {
+  max-width: 132.1rem;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3rem;
+}
+
+@media only screen and (min-width: 767px) and (max-width: 1200px) {
+  .category-section {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 2rem;
+  } 
+} */
